@@ -100,4 +100,4 @@ The most easy to understand solutions for [CSSBattle](https://cssbattle.dev/).
 * Battle #12 - Blend
 
   * [Target #61- ImprovMX](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2361-%20ImprovMX.md)
-  * [Target #62- Sunset](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2362-%20Sunset.md)A
+  * [Target #62- Sunset](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2362-%20Sunset.md)
