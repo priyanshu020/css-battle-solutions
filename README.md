@@ -101,3 +101,20 @@ The most easy to understand solutions for [CSSBattle](https://cssbattle.dev/).
 
   * [Target #61- ImprovMX](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2361-%20ImprovMX.md)
   * [Target #62- Sunset](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2362-%20Sunset.md)
+  * [Target #63- Command Key](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2363-%20Command%20Key.md)
+  * [Target #64- Door Knob](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2364-%20Door%20Knob.md)
+  * [Target #65- Max Volume](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2365-%20Max%20Volume.md)
+  * [Target #66- Batmicky](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2366-%20Batmicky.md)
+  * [Target #67- Video Reel](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2367-%20Video%20Reel.md)
+  * [Target #68- Bell](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2368-%20Bell.md)
+
+* Battle #13 - Clip
+
+  * [Target #69- PushOwl](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2369-%20PushOwl.md)
+  * [Target #70- Froggy](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2370-%20Froggy.md)
+  * [Target #71- Elephant](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2371-%20Elephant.md)
+  * [Target #72- Sheep](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2372-%20Sheep.md)
+  * [Target #73- Happy Tiger](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2373-%20Happy%20Tiger.md)
+  * [Target #74- Danger Noodle](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2374-%20Danger%20Noodle.md)
+  * [Target #75- Hippo](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2375-%20Hippo.md)
+  * [Target #76- Beeee](https://github.com/priyanshu020/css-battle-solutions/blob/main/%2376-%20Beeee.md)
